@@ -5,6 +5,10 @@ build/
 !**/src/test/**/build/
 # Ignora la cartella .idea di IntelliJ
 .idea/
+.idea/
+build/
+*.iml
+
 
 # Ignora la cartella di build
 # Ignora i file .iml di IntelliJ
