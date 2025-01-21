@@ -17,13 +17,15 @@ This project simulates an ATM system where users can perform basic banking opera
 To set up this project:
 
 1. Clone the repository:
+```bash
 git clone https://github.com/yourusername/atm-simulation.git
+```
 
-2. Open the project in your preferred IDE (e.g., IntelliJ IDEA).
+3. Open the project in your preferred IDE (e.g., IntelliJ IDEA).
 
-3. Run the `Main.kt` file to start the simulation.
+4. Run the `Main.kt` file to start the simulation.
 
-4. Ensure that the SQLite database file (`bank.db`) is located in the project directory.
+5. Ensure that the SQLite database file (`bank.db`) is located in the project directory.
 
 ## How It Works
 
