@@ -5,8 +5,6 @@ build/
 !**/src/test/**/build/
 # Ignora la cartella .idea di IntelliJ
 .idea/
-.idea/
-build/
 *.iml
 
 
@@ -22,7 +20,6 @@ build/
 .idea/compiler.xml
 .idea/libraries/
 *.iws
-*.iml
 *.ipr
 out/
 !**/src/main/**/out/
